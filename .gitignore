@@ -1,0 +1,20 @@
+.DS_Store
+.env
+.env.*
+node_modules/
+*.zip
+
+# Local source recording; the site uses audio/voice-note.m4a.
+Hanuman Mandir Marg 3.m4a
+
+# Reference downloads that are not used by the deployed site or builder.
+download-errors.json
+original-index.html
+start.html
+view.html
+
+# Only the two public renderer chunks used by build-viewer.cjs are needed.
+_next/static/chunks/*
+!_next/static/chunks/27miaz7__i2xb.js
+!_next/static/chunks/3-da3bt9m_6lv.js
+_next/static/media/

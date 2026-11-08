@@ -1,0 +1,33 @@
+{
+  "relation": "partner",
+  "callName": "Bachu",
+  "yourName": "Swapnil",
+  "messages": [],
+  "photos": [],
+  "letterParagraphs": [
+    "Tula ani tujhya family la bohot saara pyaar, khushiyan aur blessings wali Diwali!",
+    "I’m so happy I get to share this Diwali with you in my life. You’ve lit up my whole world, and I feel like Bappa gave me one of his sweetest blessings when he brought you into my life. ❤️",
+    "I wish you all the happiness in the world. Tujhya saglya wishes purna hovot, and may you get everything your heart is hoping for. I’ll always pray for that.",
+    "You’re the light of my Diwali, my lady luck, my Laxmi. 🥹❤️",
+    "Kadhi kadhi ase moments yetil jevha tula vatel ki konalach tu kasa feel kartes te samjat nahi. On those days, my love, I’ll be there. I’ll listen, try to understand what you’re feeling, and keep making the effort to show you how much you mean to me. That’s my little Diwali promise to you. 🤞🏻❤️",
+    "This Diwali, I pray that Bappa always keeps you happy, protects you from every negativity, and fills your life with peace, love, and all the little things that make you smile. May all your dreams come true, my love.",
+    "Happy Diwali, sweetheart. I love you. ❤️🪔"
+  ],
+  "wishes": [
+    {
+      "label": "Khushiyan",
+      "emoji": "✨",
+      "message": "Tujhya saglya wishes purna hovot. May every little thing that makes you smile find its way to you."
+    },
+    {
+      "label": "Bappa’s blessings",
+      "emoji": "🪔",
+      "message": "May Bappa keep you happy, protect you from negativity, and fill your life with peace and love."
+    },
+    {
+      "label": "My promise",
+      "emoji": "❤️",
+      "message": "On the days you feel unseen, I’ll listen, try to understand, and keep showing you how much you mean to me."
+    }
+  ]
+}

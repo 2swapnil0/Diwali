@@ -1,0 +1,191 @@
+{
+  "style": "classic",
+  "styleSwitcher": false,
+  "meta": {
+    "title": "Happy Diwali, Bachu 🪔",
+    "lang": "en",
+    "occasion": "Diwali",
+    "relationship": "partner",
+    "source": "koikoi"
+  },
+  "theme": {
+    "particles": false,
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Plus Jakarta Sans",
+      "script": "Caveat",
+      "css": "/styles/fonts/festive.css"
+    },
+    "letterFont": "script",
+    "confetti": true,
+    "frame": "mandap",
+    "backgroundType": "fireworks",
+    "lockBackground": true,
+    "fireworks": {
+      "calmUntil": "crackers"
+    },
+    "petals": false,
+    "bg1": "#3b1650",
+    "bg2": "#120720",
+    "primary": "#e8590c",
+    "primaryText": "#ffffff",
+    "buttonGradient": "linear-gradient(180deg,#ffb636 0%,#e0541a 100%)",
+    "accent": "#ffc24a",
+    "text": "#fff3dc",
+    "card": "#2b1238",
+    "cardText": "#fff3dc",
+    "checkColor": "#5a2a12",
+    "dark": {
+      "bg1": "#1b0a27",
+      "bg2": "#05020a",
+      "text": "#fff3dc",
+      "accent": "#ffc24a",
+      "primary": "#ff7a2e",
+      "card": "#1d0c27",
+      "cardText": "#fff3dc"
+    },
+    "frameSet": "diwali",
+    "haloArt": "mandala-pink",
+    "haloOpacity": 0.3
+  },
+  "music": {
+    "hint": "Happy Diwali music",
+    "url": "/diwali/diwali-evening-generic.mp3",
+    "volume": 0.9
+  },
+  "flow": [
+    "landing",
+    "diya",
+    "letter",
+    "lanterns",
+    "voice",
+    "crackers",
+    "ending"
+  ],
+  "gifs": {
+    "msg_1": {
+      "hint": "hanging brass lantern",
+      "fallback": "🪔",
+      "url": "/diwali/art-c3093bbb.webp",
+      "cutout": true
+    },
+    "msg_2": {
+      "hint": "Diwali chocolate gift box",
+      "fallback": "🍬",
+      "url": "/diwali/art-bd00548a.webp",
+      "cutout": true
+    },
+    "msg_3": {
+      "hint": "round flower rangoli",
+      "fallback": "🌼",
+      "url": "/diwali/art-1272b993.webp",
+      "cutout": true
+    },
+    "ending": {
+      "hint": "three diyas among marigolds and petals",
+      "fallback": "🪔",
+      "url": "/diwali/art-b2900b7b.webp",
+      "cutout": true
+    },
+    "landing": {
+      "hint": "diyas arranged in a heart",
+      "fallback": "💛",
+      "url": "/diwali/art-df57a47c.webp",
+      "cutout": true
+    }
+  },
+  "landing": {
+    "layout": "sticker",
+    "gif": "landing",
+    "greeting": "Happy Diwali, sweetheart! ❤️🪔",
+    "line": "A little Diwali letter, just for you.",
+    "lineFont": "script",
+    "typed": true,
+    "typeSpeed": 70,
+    "confetti": false,
+    "button": "Open My Diwali 💌"
+  },
+  "steps": {
+    "diya": {
+      "title": "Let's light up Diwali together 🪔",
+      "hint": "Tap the big diya, the rest will follow",
+      "count": 10,
+      "reveal": "Our Diwali, aglow 💛",
+      "message": "From wherever you are, this light is for you.",
+      "button": "Read my letter 💌"
+    },
+    "crackers": {
+      "tap": true,
+      "title": "Light them up! 🎆",
+      "hint": "Tap a cracker to light it 🔥",
+      "button": "One last thing 🪔"
+    },
+    "lanterns": {
+      "title": "Three wishes for you 🏮",
+      "subtitle": "Tap each lantern to open a wish",
+      "doneSubtitle": "Every wish is for you 💛",
+      "closeLabel": "Let it fly 🏮",
+      "outro": "May all three find their way to you ✨",
+      "button": "Hear my message 🎵",
+      "items": [
+        {
+          "label": "Khushiyan",
+          "emoji": "✨",
+          "note": "Tujhya saglya wishes purna hovot. May every little thing that makes you smile find its way to you."
+        },
+        {
+          "label": "Bappa’s blessings",
+          "emoji": "🪔",
+          "note": "May Bappa keep you happy, protect you from negativity, and fill your life with peace and love."
+        },
+        {
+          "label": "My promise",
+          "emoji": "❤️",
+          "note": "On the days you feel unseen, I’ll listen, try to understand, and keep showing you how much you mean to me."
+        }
+      ]
+    },
+    "voice": {
+      "title": "A Message for You 🎵",
+      "subtitle": "A little song from me to you, Bachu.",
+      "button": "Let's light some crackers 🎆"
+    }
+  },
+  "ending": {
+    "layout": "party",
+    "title": "Happy\nDiwali",
+    "name": "sweetheart!",
+    "gif": "ending",
+    "message": "Happy Diwali, sweetheart. I love you. ❤️🪔",
+    "footnote": "🪔 Sent with love from Swapnil",
+    "replay": "",
+    "confetti": "streamers",
+    "sound": "applause"
+  },
+  "sfx": {
+    "yay": false
+  },
+  "mode": "light",
+  "autoplay": false,
+  "letter": {
+    "title": "A Diwali letter for you 💌",
+    "envelopeLabel": "To my sweetheart",
+    "tapHint": "Tap to open",
+    "seal": "❤️",
+    "salutation": "My sweetheart, ❤️🪔",
+    "paragraphs": [
+      "Tula ani tujhya family la bohot saara pyaar, khushiyan aur blessings wali Diwali!",
+      "I’m so happy I get to share this Diwali with you in my life. You’ve lit up my whole world, and I feel like Bappa gave me one of his sweetest blessings when he brought you into my life. ❤️",
+      "I wish you all the happiness in the world. Tujhya saglya wishes purna hovot, and may you get everything your heart is hoping for. I’ll always pray for that.",
+      "You’re the light of my Diwali, my lady luck, my Laxmi. 🥹❤️",
+      "Kadhi kadhi ase moments yetil jevha tula vatel ki konalach tu kasa feel kartes te samjat nahi. On those days, my love, I’ll be there. I’ll listen, try to understand what you’re feeling, and keep making the effort to show you how much you mean to me. That’s my little Diwali promise to you. 🤞🏻❤️",
+      "This Diwali, I pray that Bappa always keeps you happy, protects you from every negativity, and fills your life with peace, love, and all the little things that make you smile. May all your dreams come true, my love.",
+      "Happy Diwali, sweetheart. I love you. ❤️🪔"
+    ],
+    "signoff": "",
+    "signature": "Sent with love from Swapnil",
+    "button": "See my three wishes 🏮",
+    "typed": false,
+    "paper": "card"
+  }
+}
